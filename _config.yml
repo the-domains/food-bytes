@@ -2,6 +2,7 @@ name: Food Bytes
 favicon: null
 layout_spectrum: 0.7958074654452503
 typography_spectrum: 0.009199177846312523
+title: Food Bytes
 cta:
   domain: null
   bucket: null
