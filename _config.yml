@@ -1,6 +1,6 @@
 name: Food Bytes
 favicon: null
-layout_spectrum: 0.7958074654452503
+layout_spectrum: 0.2538
 typography_spectrum: 0.009199177846312523
 title: Food Bytes
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.07386230444535613
-  lightness: 0.5100108066108078
-  saturation: 0.42903841915540397
-  rhythmicContrast: 0.832469466375187
+    - '#005f00'
+    - '#ffffff'
+    - '#9ea800'
+    - '#000000'
+    - '#00ff00'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
